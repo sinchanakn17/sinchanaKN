@@ -1,0 +1,2 @@
+# sinchanaKN
+chess board code 
